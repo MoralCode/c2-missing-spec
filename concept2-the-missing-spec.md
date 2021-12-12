@@ -44,7 +44,7 @@ CSAFE commands are documented more in depth in the document called `Concept2 PM 
 
 It appears as though CSAFE is a protocol that was developed by what seems to be a fitness industry association.
 
-While the more general CSAFE spec doesnt seem to be online anymore, there is an [archived version on archive.org](https://web.archive.org/web/20080614002257/http://www.fitlinxx.com/csafe/)
+While the more general CSAFE spec doesnt seem to be online anymore, there is an [archived version on archive.org](https://web.archive.org/web/20080614002257/http://www.fitlinxx.com/csafe/). This spec seems to have been built "with input from many contributing manufacturers including Precor, Quinton, Schwinn, Stair Master, Star Trac, Tectrix, Trotter, and Life Fitness" and so may have applicability to those machines too.
 
 
 ### Misc.
