@@ -27,6 +27,8 @@ Upon some investigation, it seems like the data in these 4 date/time bytes is re
 
 ![An image representing the bit layout of the spec with the first byte being split into day and month and the following three bytes being for year, minutes, and hours respectively](images/Concept2-DateSpecv1.png)
 
+For some reason, the years field also appears to be double the value that it should be (i.e. a year of 2021 will be represented here as 42). I'm still not sure why this is.
+
 ### Workout Summary Characteristics
 
 #### When are they sent
