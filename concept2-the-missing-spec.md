@@ -37,6 +37,15 @@ In the same way that ergs wont save "Just row" workouts that are under a minute 
 #### How often are they sent?
 TBR - I suspect that only one of each is sent, but I suspect the second characteristic will be sent multiple times for variable interval workouts to convey all the intervals.
 
+### Workout Types
+
+The "workout type" enum values contain a somewhat unexplainable value at the end: WORKOUTTYPE_NUM.
+
+
+![the enumeration of workout types](images/workouttype.png)
+
+Current best suspicion is that this is for a Numbered workout - i.e. one being run via tne ErgRace/VenueRace application from a PC, but this is still TBR/needs confirmation.
+
 ### CSAFE Commands
 The Bluetooth spec has a control service with characteristics for sending and receiving [CSAFE commands](https://en.wikipedia.org/wiki/Communications_Specification_for_Fitness_Equipment), however there is very little mention of these commands in the document.
 
