@@ -14,6 +14,7 @@ These things might help save time for others who may be following the same path
 
 - [Concept2 Communications Interface Definition rev 0.19](https://github.com/droogmic/Py3Row/blob/master/docs/Concept2PMCommInterfaceDef.pdf)
   - This can also be found in the Concept2 SDK
+- [Fitlinxx CSAFE Specification](https://web.archive.org/web/20080614002257/http://www.fitlinxx.com/csafe/)
 
 
 ## Specification
